@@ -3,3 +3,7 @@
   background-color: #1b2735;
   margin-top: 50px;
 }
+
+html {
+  scroll-behavior: smooth;
+}

@@ -16,10 +16,9 @@
 .text::after {
   content: "";
   position: absolute;
-  /* right: -1px; */
-  width: 1px;
+  width: 5px;
   height: 100%;
-  border-right: 2px solid white;
+  border-right: 3px solid white;
   animation: blink 0.7s infinite ease;
 }
 
