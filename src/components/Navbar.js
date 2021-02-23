@@ -1,10 +1,11 @@
 import React from "react";
 import { Navbar, NavDropdown, Nav } from "react-bootstrap";
+
 // import "./Navbar.css";
 
 export default function Navigation () {
   return (
-<Navbar collapseOnSelect expand="md" bg="dark" variant="dark">
+<Navbar fixed="top" collapseOnSelect expand="md" bg="dark" variant="dark">
   <Navbar.Brand href="#home">SF</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">

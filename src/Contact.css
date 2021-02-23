@@ -1,9 +1,9 @@
-.aboutpage {
+.contactpage {
   width: 100%;
   height: 50vh;
-  background-color: grey;
+  background-color: #1b2735;
 }
-.about-container {
+.contact-container {
   text-align: center;
   color: #FFFFFF;
   position: relative;
