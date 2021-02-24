@@ -10,8 +10,10 @@
   transform: translate(-50%, -50%)
 }
 .text {
+  
   position: relative;
   margin-left: 10px;
+  font-family: 'Roboto', sans-serif;
 }
 .text::after {
   content: "";
