@@ -1,8 +1,8 @@
 import Home from "./Home";
-import About from "./About";
-import Skills from "./Skills";
+import About from "./pages/About";
+import Skills from "./pages/Skills";
 import Portfolio from "./Portfolio";
-import Contact from "./Contact";
+import Contact from "./pages/Contact";
 import Navigation from "./components/Navbar";
 import { BrowserRouter, Route, Link, NavLink } from "react-router-dom";
 import './App.css';
