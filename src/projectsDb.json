@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Releaf",
+    "description": "A SPA crowdfunding website for natural disaster victims that allows users to create an account and raise money through donations to help rebuild what they've lost.",
+    "stack": "ReactJS, React-Router, PostgreSQL, ExpressJS, NodeJS, Material-UI, Stripe",
+    "image": "https://github.com/marcusalint/ReLeaf/blob/master/docs/Screen%20Shot%202021-02-02%20at%203.13.42%20PM.png?raw=true",
+    "github": "https://github.com/samamoo/ReLeaf-1"
+  },
+  {
+    "title": "Mamma Mia's Food Pick-Up App",
+    "description": "A website for a fictional restaurant that offers online food ordering and pick-up. Customers will receive an SMS upon submitting their order, and another upon the restaurant's confirmation.",
+    "stack": "ExpressJS, NodeJS, EJS, Vonage, PostgreSQL",
+    "image": "https://github.com/samamoo/Midterm/blob/master/img/menu.png?raw=true",
+    "github": "https://github.com/samamoo/Midterm"
+  },
+  {
+    "title": "Scheduler",
+    "description": "An interview scheduler that allows students to book, delete, and edit appointments with interviewers for a selected day.",
+    "stack": "ReactJS, Axios, Storybook, Cypress, Classnames, SASS",
+    "image": "https://github.com/samamoo/scheduler/blob/master/docs/scheduler-wb.gif?raw=true",
+    "github": "https://github.com/samamoo/scheduler"
+  },
+  {
+    "title": "Tweeter",
+    "description": "A single-paged Twitter clone that allows users to make 'tweets' within a character count. ",
+    "stack": "JQuery, AJAX, Express, Node",
+    "image": "https://github.com/samamoo/tweeter/blob/master/docs/tweet-wb.gif?raw=true",
+    "github": "https://github.com/samamoo/tweeter"
+  },
+  {
+    "title": "Pong",
+    "description": "Classic game of Pong. Use a/z and m/k keys to move the paddles.",
+    "stack": "P5JS",
+    "image": "https://github.com/samamoo/p5js-pong/blob/master/docs/pong-wb.gif?raw=true",
+    "github": "https://github.com/samamoo/p5js-pong"
+  },
+  {
+    "title": "DVD Logo Screensaver",
+    "description": "Time wasted waiting for it to hit the corners.",
+    "stack": "P5JS",
+    "image": "https://github.com/samamoo/dvd-loader/blob/master/docs/dvd-wb.gif?raw=true",
+    "github": "https://github.com/samamoo/dvd-loader"
+  }
+]
