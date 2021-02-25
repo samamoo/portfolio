@@ -40,11 +40,15 @@
   padding: 2%;
   width: 50%;
   font-size: 18pt;
-  font-family: 'Roboto', sans-serif;
-  /* text-align: left; */
+  font-family: 'Rubik', sans-serif;
 }
 .bg-active { 
   background-color: #EE7B30;
+}
+.about-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media only screen and (max-width: 700px) {
