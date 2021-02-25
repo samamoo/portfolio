@@ -10,22 +10,22 @@ export default function Contact () {
       <section className="contact-container">
         <h1>Contact Me:</h1>
         <ul className="contact-list">
-          <a href="https://github.com/samamoo">
+          <a href="https://github.com/samamoo" target="_blank">
             <li className="contact-item">
               <FontAwesomeIcon className="contact-icon" icon={faGithub} />
             </li>
           </a>
-          <a href="www.linkedin.com/in/samantha-fok">
+          <a href="www.linkedin.com/in/samantha-fok" target="_blank">
             <li className="contact-item">
               <FontAwesomeIcon className="contact-icon" icon={faLinkedin} />
             </li>
           </a>
-          <a href={`mailto: samantha.fok92@gmail.com`}>
+          <a href={`mailto: samantha.fok92@gmail.com`} target="_blank">
             <li className="contact-item">
               <FontAwesomeIcon className="contact-icon" icon={faEnvelopeSquare} />
             </li>
           </a>
-          <a href="https://www.instagram.com/samfokdraws/" >
+          <a href="https://www.instagram.com/samfokdraws/" target="_blank">
             <li className="contact-item">
               <FontAwesomeIcon className="contact-icon" icon={faInstagram} />
             </li>
