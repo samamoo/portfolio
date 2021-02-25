@@ -1,9 +1,10 @@
 import Home from "./Home";
 import About from "./pages/About";
 import Skills from "./pages/Skills";
-import Portfolio from "./Portfolio";
+import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Navigation from "./components/Navbar";
+import BackToTop from "./components/BackToTop";
 import { BrowserRouter, Route, Link, NavLink } from "react-router-dom";
 import './App.css';
 
@@ -12,6 +13,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Navigation/>
+        <BackToTop showBelow={250}/>
         <Home/>
         <About/>  
         <Skills/>
