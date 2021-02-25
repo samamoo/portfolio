@@ -5,12 +5,12 @@ import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Navigation from "./components/Navbar";
 import BackToTop from "./components/BackToTop";
-import { BrowserRouter, Route, Link, NavLink } from "react-router-dom";
+import { HashRouter, Route, Link, NavLink } from "react-router-dom";
 import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Navigation/>
         <BackToTop showBelow={250}/>
